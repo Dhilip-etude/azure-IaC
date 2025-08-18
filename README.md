@@ -1,2 +1,3 @@
-Azure - Resouce creation with Terraform 
-    RG - azurerm_resource_group
+Azure - Resouce creation with Terraform  
+_________________________________________________________________________________________________________________________
+|RG - azurerm_resource_group
