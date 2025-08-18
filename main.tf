@@ -1,0 +1,3 @@
+module "RG" {
+  source = "./rg"
+}
