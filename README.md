@@ -1,4 +1,4 @@
-
+### Terraform with Azure is used to automate the provisioning and management of Azure resources using Infrastructure as Code (IaC).
 _______________________________________________________________________________________________________________________________________________________________________________________________
 # Azure Resource
 | Resource Name | Resource | Description |
