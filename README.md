@@ -4,5 +4,9 @@ RG - azurerm_resource_group
 Storage - azurerm_storage_account
 _______________________________________________________________________________________________________________________________________________________________________________________________
 # Required variable
-| name | Description
+| Left Align | Center Align | Right Align |
+|:-----------|:------------:|------------:|
+| text       | text         | text        |
+
+
 
