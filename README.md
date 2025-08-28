@@ -1,6 +1,6 @@
 
 _______________________________________________________________________________________________________________________________________________________________________________________________
-# Azure Module 
+# Azure Resource
 | Resource Name | Resource | Description |
 |:-----------|:------------:|:---|
 | RG | azurerm_resource_group | RG (Resource Group) is a logical container that holds related resources for an application, workload, or service. |
