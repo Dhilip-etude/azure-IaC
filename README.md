@@ -1,10 +1,10 @@
 
 _______________________________________________________________________________________________________________________________________________________________________________________________
-# Azure Module status
-| Resource Name | Resource |
-|:-----------|:------------:|
-| RG | azurerm_resource_group |
-| Storage      | azurerm_storage_account         |
+# Azure Module 
+| Resource Name | Resource | Description |
+|:-----------|:------------:|:---|
+| RG | azurerm_resource_group | RG (Resource Group) is a logical container that holds related resources for an application, workload, or service. |
+| Storage      | azurerm_storage_account         | Storage usually refers to Azure Storage Account, which provides cloud-based storage services. |
 
 
 
